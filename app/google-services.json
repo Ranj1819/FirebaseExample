@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "179614422068",
+    "firebase_url": "https://fir-example-1095b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-example-1095b",
+    "storage_bucket": "fir-example-1095b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179614422068:android:9a16a16a784dd24a8ee661",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhzQku60E8wb_wLGXUMMzum9CKkYM3EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
